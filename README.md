@@ -3,7 +3,7 @@
 Welcome to my GitHub Repository!
 
 - 🌱 I’m currently learning Python Programming through HyperionDev!
-- 
+- Here you will find some of the projects I have worked on during the course as well as some of my own personal projects!
 
 <!--
 **ShahSJ/ShahSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
