@@ -5,7 +5,8 @@ Welcome to my GitHub Repository!
 - 🌱 I’m currently learning Python Programming through HyperionDev!
 - Here you will find some of the projects I have worked on during the course as well as some of my own personal projects!
 
-The final Capstone Project for HyperionDev can be accessed here: [FinalCapston](https://github.com/ShahSJ/finalCapstone)
+The final Capstone Project for HyperionDev can be accessed here: [FinalCapstone](https://github.com/ShahSJ/finalCapstone)
+My University Project (ios application) which got nominated in the Final Year Awards can be accessed here: [PreSchool App](https://github.com/ShahSJ/PreschoolEducationApp)
 <!--
 **ShahSJ/ShahSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
