@@ -8,6 +8,9 @@ Welcome to my GitHub Repository!
 The final Capstone Project for HyperionDev can be accessed here: [FinalCapstone](https://github.com/ShahSJ/finalCapstone)
 
 My University Project (ios application) which got nominated in the Final Year Awards can be accessed here: [PreSchool App](https://github.com/ShahSJ/PreschoolEducationApp)
+
+------------------------------------------------------------
+Watch this space for my future projects! 
 <!--
 **ShahSJ/ShahSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
