@@ -2,8 +2,12 @@
 
 Welcome to my GitHub Repository!
 
+-----------------------------------------------------------
+
 - 🌱 I’m currently learning Python Programming through HyperionDev!
 - Here you will find some of the projects I have worked on during the course as well as some of my own personal projects!
+
+-----------------------------------------------------------
 
 The final Capstone Project for HyperionDev can be accessed here: [FinalCapstone](https://github.com/ShahSJ/finalCapstone)
 
